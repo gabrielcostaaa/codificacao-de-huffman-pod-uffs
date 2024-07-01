@@ -26,7 +26,6 @@ void preencherLista(unsigned int tab[], Lista *lista);
 void imprimeLista(Lista *lista);
 
 //Montagem e Impressão da Árvore de Huffman
-
 Node* montarArvore(Lista *lista);
 void imprimeArvore(Node *raiz, int tam);
 
